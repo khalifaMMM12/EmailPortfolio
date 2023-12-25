@@ -1,3 +1,3 @@
 # My First Portfolio
 
-My first portfolio on web developing career with simple projects and products
+My first portfolio on web developing with simple projects and products
